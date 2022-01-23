@@ -1,0 +1,38 @@
+@charset "UTF-8";
+body{
+  background-color: #e9eaf2;
+}
+.ha{
+  margin-top: 17px;
+  margin-left: 2.5em;
+}
+h1{
+  font-family: 'Noto Sans JP', sans-serif;
+}
+.hi{
+  margin-top: 150px;
+  text-align: center;
+  margin-bottom: 280px;
+}
+h2{
+  font-family: 'Noto Sans JP', sans-serif;
+  margin-top: 10px;
+}
+.en{
+  margin-left: 50px;
+  margin-bottom: 30px;
+}
+.en p{
+  font-size: 16px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+footer{
+  background: #333;
+  text-align: center;
+  padding: 22px; 0;
+}
+footer p{
+  color: #fff;
+  font-size: 0.875rem;
+  font-family: 'Noto Sans JP', sans-serif;
+}
